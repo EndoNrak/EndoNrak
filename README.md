@@ -10,7 +10,7 @@
 | [PortfolioGUIApp](https://github.com/EndoNrak/PortfolioGUIApp) | python, web scraping, heroku, postgres, Tkinter         | 最初に作ったプロダクト。yahoo finance から毎日株価データを取得して DB(postgresql)に保存。tkinter で GUI を作って、データを可視化するアプリ。 |
 | [burger_war_dev](https://github.com/EndoNrak/burger_war_dev)   | python, ROS, OpenCV                                     | ロボコンに出場した時のリポジトリ。ROS を中心にロボティクスの片鱗を見た。                                                                     |
 | [ShantyShack](https://github.com/EndoNrak/ShantyShack)         | Angular, Typescript, Firebase                           | 最初に作った web プロダクト。HTML, CSS, Javascript を一から学んでくみ上げた。[リンク](https://shanty-shack.web.app/top)                      |
-| ClubHomePage(private)                                          | React, Firebase, GCP(cloudfunctions), Go, GithubActions | 大学時代のサークルの HP。サーバサイド REST API を Go で、フロントサイドを React で実装。[リンク](https://ku-kiddykids.web.app/)              |
+| ClubHomePage(private)    [README](https://github.com/EndoNrak/EndoNrak/blob/master/details/ClubHomePage/ClubHomePage_README.md)                                      | React, Firebase, GCP(cloudfunctions), Go, GithubActions | 大学時代のサークルの HP。サーバサイド REST API を Go で、フロントサイドを React で実装。[リンク](https://ku-kiddykids.web.app/)              |
 | [todo_app](https://github.com/EndoNrak/todo_app)               | Flutter                                                 | ネイティブアプリを作りたいと思って作った。現在勉強中                                                                                         |
 
 <!--
