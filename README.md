@@ -13,4 +13,4 @@
 | ClubHomePage(private)    [README](https://github.com/EndoNrak/EndoNrak/blob/master/details/ClubHomePage/ClubHomePage_README.md)                                      | React, Firebase, GCP(cloudfunctions), Go, GithubActions | 大学時代のサークルの HP。サーバサイド REST API を Go で、フロントサイドを React で実装。[リンク](https://ku-kiddykids.web.app/)              |
 | [todo_app](https://github.com/EndoNrak/todo_app)               | Flutter                                                 | ネイティブアプリを作りたいと思って作った。                                                               |
 |[TetrisScoreServer](https://github.com/ChallengeClub/tetris_score_server.git)|Flutter, Protobuf, AWS, Docker | [ChallengeClub](https://github.com/ChallengeClub)で取り組んでいるtetris challenge用のwebサービス。初めて本格的にクラウドサービスを一から構築した。[リンク](https://tetris-server.challenge-club.org/) |
-|[BeerHealthApp](https://github.com/EndoNrak/beer-health-app)|React, AWS, OpenAI API, OAuth2.0, Fitbit WebAPI, PlatformIO|初めて構築したIoTサービス。ユーザー認証のためのOAuth2.0も導入した。生成AIも使ってみた。|
+|[BeerHealthApp](https://github.com/EndoNrak/beer-health-app)|React, AWS, OpenAI API, OAuth2.0, Fitbit WebAPI, PlatformIO|初めて構築したIoTサービス。ユーザー認証のためのOAuth2.0も勉強した。生成AIも使ってみた。|
